@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Infrastructure\\UwuDiner.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Application\\UwuDiner.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Application\\UwuDiner.Application.csproj",
+        "projectName": "UwuDiner.Application",
+        "projectPath": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Application\\UwuDiner.Application.csproj",
+        "packagesPath": "C:\\Users\\nilss\\.nuget\\packages\\",
+        "outputPath": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nilss\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Domain\\UwuDiner.Domain.csproj": {
+                "projectPath": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Domain\\UwuDiner.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Domain\\UwuDiner.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Domain\\UwuDiner.Domain.csproj",
+        "projectName": "UwuDiner.Domain",
+        "projectPath": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Domain\\UwuDiner.Domain.csproj",
+        "packagesPath": "C:\\Users\\nilss\\.nuget\\packages\\",
+        "outputPath": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nilss\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Infrastructure\\UwuDiner.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Infrastructure\\UwuDiner.Infrastructure.csproj",
+        "projectName": "UwuDiner.Infrastructure",
+        "projectPath": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Infrastructure\\UwuDiner.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\nilss\\.nuget\\packages\\",
+        "outputPath": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nilss\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Application\\UwuDiner.Application.csproj": {
+                "projectPath": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Application\\UwuDiner.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

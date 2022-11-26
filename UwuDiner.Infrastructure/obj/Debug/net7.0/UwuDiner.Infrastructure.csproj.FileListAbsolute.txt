@@ -1,0 +1,17 @@
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\bin\Debug\net7.0\UwuDiner.Infrastructure.deps.json
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\bin\Debug\net7.0\UwuDiner.Infrastructure.dll
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\bin\Debug\net7.0\UwuDiner.Infrastructure.pdb
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\UwuDiner.Infrastructure.csproj.AssemblyReference.cache
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\UwuDiner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\UwuDiner.Infrastructure.AssemblyInfoInputs.cache
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\UwuDiner.Infrastructure.AssemblyInfo.cs
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\UwuDiner.Infrastructure.csproj.CoreCompileInputs.cache
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\UwuDiner.Infrastructure.dll
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\refint\UwuDiner.Infrastructure.dll
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\UwuDiner.Infrastructure.pdb
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\ref\UwuDiner.Infrastructure.dll
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\bin\Debug\net7.0\UwuDiner.Application.dll
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\bin\Debug\net7.0\UwuDiner.Domain.dll
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\bin\Debug\net7.0\UwuDiner.Application.pdb
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\bin\Debug\net7.0\UwuDiner.Domain.pdb
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Infrastructure\obj\Debug\net7.0\UwuDiner.Infrastructure.csproj.CopyComplete

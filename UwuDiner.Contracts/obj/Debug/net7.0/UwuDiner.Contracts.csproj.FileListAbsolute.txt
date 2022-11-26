@@ -1,0 +1,12 @@
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\bin\Debug\net7.0\UwuDiner.Contracts.deps.json
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\bin\Debug\net7.0\UwuDiner.Contracts.dll
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\bin\Debug\net7.0\UwuDiner.Contracts.pdb
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\obj\Debug\net7.0\UwuDiner.Contracts.csproj.AssemblyReference.cache
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\obj\Debug\net7.0\UwuDiner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\obj\Debug\net7.0\UwuDiner.Contracts.AssemblyInfoInputs.cache
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\obj\Debug\net7.0\UwuDiner.Contracts.AssemblyInfo.cs
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\obj\Debug\net7.0\UwuDiner.Contracts.csproj.CoreCompileInputs.cache
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\obj\Debug\net7.0\UwuDiner.Contracts.dll
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\obj\Debug\net7.0\refint\UwuDiner.Contracts.dll
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\obj\Debug\net7.0\UwuDiner.Contracts.pdb
+O:\Dev\DataDrivenDesign\UwuDiner\UwuDiner.Contracts\obj\Debug\net7.0\ref\UwuDiner.Contracts.dll

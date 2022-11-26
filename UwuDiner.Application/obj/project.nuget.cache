@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vd0y487+nY46jGcVD67tkgfPqSUsJSSrg37K1JKBzcCSO8535ePjYHM+fmeoVBYcVoIgwbeIO73o/8mO1Ohh1Q==",
+  "success": true,
+  "projectFilePath": "O:\\Dev\\DataDrivenDesign\\UwuDiner\\UwuDiner.Application\\UwuDiner.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilss\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

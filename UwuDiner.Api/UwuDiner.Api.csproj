@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>a479166f-60c4-4edb-af0b-9e97e1b02eb4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UwuDiner.Contracts\UwuDiner.Contracts.csproj" />
+    <ProjectReference Include="..\UwuDiner.Application\UwuDiner.Application.csproj" />
+    <ProjectReference Include="..\UwuDiner.Infrastructure\UwuDiner.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

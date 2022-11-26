@@ -1,0 +1,9 @@
+@host=http://localhost:5283
+
+POST {{host}}/auth/login
+Content-Type: application/json
+
+{
+  "email": "art@quad.moe",
+  "password": "vrtradumb"
+}
